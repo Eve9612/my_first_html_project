@@ -1,11 +1,11 @@
 body{
-    background-color: black;
+    background-color: rgb(8, 147, 82);
     color: red;
 }
-.header{
-    display: flex;
-    background-color: DodgerBlue;
-  }
+.header{ 
+  size: 5em; 
+  color: #f1f1f1;
+}
   
   .header > div {
     background-color: #f1f1f1;
