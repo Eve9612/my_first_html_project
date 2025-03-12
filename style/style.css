@@ -1,6 +1,9 @@
 body{
-    background-color: rgb(8, 147, 82);
-    color: red;
+    background-color: rgb(0, 0, 250);
+    color: rgb(255, 255, 255);
+}
+p{
+  font-size: 20px;
 }
 .header{ 
   size: 5em; 
