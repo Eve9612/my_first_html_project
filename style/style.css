@@ -9,6 +9,14 @@ p{
 ul {
   list-style-type: none;
 }
+h1 {
+  /* font-size: 3.7em; */
+  width: 100%;
+  display: inline-block;
+}
+img {
+  width: 100%; 
+}
 .header{ 
   size: 5em; 
   color: #f1f1f1;
@@ -17,4 +25,8 @@ ul {
   .header > div {
     background-color: #f1f1f1;
   }
-  
+  @media only screen and (max-width:402px){
+    h1{
+      font-size: 1.5em;
+    }
+  }
